@@ -1,0 +1,15 @@
+:root {
+  --wrapper-width: 320px;
+}
+
+.fractions {
+  display: flex;
+  justify-content: space-around;
+  max-width: var(--wrapper-width);
+  margin: 0 auto;
+}
+
+.outcome {
+  max-width: var(--wrapper-width);
+  margin: 0 auto;
+}

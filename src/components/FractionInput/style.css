@@ -1,0 +1,16 @@
+.fraction {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.line {
+  background: #000;
+  height: 2px;
+  width: 100%;
+}
+.input {
+  font-size: 36px;
+  max-width: 3em;
+  text-align: right;
+}
